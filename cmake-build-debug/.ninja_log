@@ -1,0 +1,8 @@
+# ninja log v5
+14	1327	7343839099065980	CMakeFiles/HF_CLion_Template.dir/framework.cpp.obj	1cb1292e57866b9e
+1	142	7373280825732775	build.ninja	5f5dae32f3763ffb
+14	992	7373281165716960	CMakeFiles/HF_CLion_Template.dir/framework.cpp.obj	e63edcc42dbb5f6d
+8	1390	7373281169697395	CMakeFiles/HF_CLion_Template.dir/FreeformCurves.cpp.obj	25565436da3ce4ae
+1390	1593	7373281171661726	C:/Users/User/Desktop/Egyetem/4.felev/grafika/2-hazi/Circle-Limit/FreeformCurves/bin/HF_CLion_Template.exe	d80430be4124ccc3
+11	2303	7373281950127782	CMakeFiles/HF_CLion_Template.dir/FreeformCurves.cpp.obj	25565436da3ce4ae
+2305	2883	7373281955759143	C:/Users/User/Desktop/Egyetem/4.felev/grafika/2-hazi/Circle-Limit/FreeformCurves/bin/HF_CLion_Template.exe	d80430be4124ccc3
